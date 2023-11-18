@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif; /* keluarga font */
+    font-size: 11px; /* Ukuran font utama pada tag <p></p> */
+    background-color: #000000; /* Warna latar belakang laman web */
+    color: #333333; /* Warna teks */ 
+}
+h1 {
+    color: #5988FF; /* Warna tajuk (header)*/
+    font-size: 24px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    animation: color-change 3s infinite;
+}
+
+h2 {
+    color: #FD98FB; /* Warna tajuk (header)*/
+    font-size: 20px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+h3 {
+  color: #474ae7; /* Warna tajuk (header)*/
+  font-size: 20px; /* Ukuran font tajuk (header) */
+  font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+p {
+    color: #D6FF6B; /* Warna tajuk (header)*/
+    font-size: 24px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+li {
+    color: #FFFFFF; /* Warna tajuk (header)*/
+    font-size: 22px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+.iframe-custom {
+  width: 800px;
+  height: 600px;
+}
